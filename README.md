@@ -1,5 +1,5 @@
 # SpringTaskManegmant
-Spring Boot, Spring MVC, Spring Security, postgres, data jpa
+Spring Boot, Spring Security, postgres, data jpa
 
 Введение
 
